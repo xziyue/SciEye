@@ -1,0 +1,2 @@
+# the conda environment name used for the project
+CONDA_ENV_NAME=data-graph-matching
