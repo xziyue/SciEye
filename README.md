@@ -27,3 +27,7 @@ Please see `/notebook/demo.ipynb`
 The parameters of many steps are defined in `/data_graph_matching/param.py`.
 
 - `parallel_n_jobs` controls the number of parallel jobs; setting it to 1 can be beneficial for debugging
+
+## Dataset
+
+The dataset used to train the Mask RCNN can be found [here](https://github.com/xziyue/Scientific-Figure-Component-Dataset).
